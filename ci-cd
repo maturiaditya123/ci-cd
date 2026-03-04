@@ -21,6 +21,13 @@ System.out.println(str + " is not a Palindrome String.");
 s.o.println("print12");
 s.o.println("print1");
 System.out.println(str + " is not a Palindrome String.");
+s.o.println("print");
+s.o.println("print12");
+s.o.println("print1");
+System.out.println(str + " is not a Palindrome String.");
+s.o.println("print12");
+s.o.println("print1");
+System.out.println(str + " is not a Palindrome String.");
     }
   }
 }
